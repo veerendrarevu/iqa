@@ -1,0 +1,18 @@
+# Web framework & server
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+python-multipart>=0.0.20
+
+# Database
+sqlalchemy>=2.0.30
+psycopg2-binary>=2.9.9
+
+# Environment / configuration
+python-dotenv>=1.0.0
+
+# Computer vision & ML
+torch>=2.0.0
+torchvision>=0.15.0
+opencv-python-headless>=4.10.0
+pillow>=10.0.0
+pyiqa>=0.1.13

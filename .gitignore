@@ -1,0 +1,15 @@
+node_modules
+dist
+__pycache__
+
+# Python virtual environment
+.venv
+venv
+
+# Local environment files — contain secrets, never commit
+.env
+backend/.env
+frontend/.env
+
+# PyTorch / pyiqa model cache
+models/
